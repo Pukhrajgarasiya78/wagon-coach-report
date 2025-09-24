@@ -1,0 +1,21 @@
+# --- Ignore Python virtual environment ---
+venv/
+ENV/
+env/
+
+# --- Ignore video files ---
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# --- Ignore processed outputs ---
+Processed_Video/
+Final Report---Assignment Submission/
+
+# --- Ignore temporary files ---
+*.log
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
